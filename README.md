@@ -1,8 +1,5 @@
 # Sistema de Visualização Projetiva
 
-Aluno: Thiago Henrique Calvi
-RA: 134955
-
 ## Introdução
 Este projeto implementa um sistema de visualização projetiva utilizando a biblioteca gráfica OpenGL e Pygame. O software permite a renderização de objetos tridimensionais definidos em arquivos de texto, aplicando transformações projetivas com base em parâmetros configuráveis de ponto de vista e plano de projeção.
 
